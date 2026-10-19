@@ -1,8 +1,8 @@
 ## Hi, I'm Simo 👋
 
-Data scientist finishing an MSc in Data Science at the University of Helsinki ([month] 2026).
-I build data pipelines and statistical / machine learning models, and I care about knowing
-*why* a model works, not just that it scores well. My route here went from classical piano
+Data scientist finishing an MSc in Data Science at the University of Helsinki (December 2026).
+I build data pipelines and statistical / machine learning models, and it interests me about knowing
+*why* a model works, not just that it scores well. My route to Data Science went from classical piano
 through molecular biology and statistics.
 
 ### Featured project
@@ -23,7 +23,7 @@ Can a frozen video foundation model predict what a cyclist will do at an interse
 - Automated data quality tests for published time series (outliers, trends, year-over-year changes,
   missing values)
 - Masking of regional data to prevent re-identification; statistical analysis (regression,
-  mixed-effects models, trend and change-point tests)
+  mixed-effects models, multiple non parametric tests, trend and change-point tests)
 
 ### Tools
 
@@ -32,4 +32,4 @@ Can a frozen video foundation model predict what a cyclist will do at an interse
 
 ### Contact
 
-[simo.liimatta@gmail.com](mailto:simo.liimatta@gmail.com) · [LinkedIn](https://www.linkedin.com/in/[your-profile])
+[simo.liimatta@gmail.com](mailto:simo.liimatta@gmail.com) · [LinkedIn](https://www.linkedin.com/in/simo-liimatta)
